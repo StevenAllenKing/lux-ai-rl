@@ -207,3 +207,5 @@ Preferences/
 .vscode/
 Feedback/
 flask_session/
+log.txt
+lux_tensorboard/
